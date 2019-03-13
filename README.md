@@ -1,7 +1,5 @@
-# Detecting_Implicit_Bias_in_Traffic_Stops
+# Detecting Implicit Bias in Traffic Stops
 Thinkful Unit 3 Supervised Learning Capstone Project
-
-Further detail to be added
 
 ## A study into possible implicit bias in 2013-15 traffic stops.
 
@@ -19,3 +17,6 @@ Each row in the dataset represents a particular fatal accident. Columns include 
 
 ftp://ftp.nhtsa.dot.gov/fars/FARS-DOC/Analytical%20User%20Guide/FARS%20Analytical%20Users%20Manual%201975-2016-822447.pdf 
 
+## Techniques Used
+
+t-testing; various supervised learning models including Random Forest, Logistic Regression, SVM, Ridge Regression, LASSO, KNN.
