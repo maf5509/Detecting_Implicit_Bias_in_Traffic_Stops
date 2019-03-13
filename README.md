@@ -3,19 +3,19 @@ Thinkful Unit 3 Supervised Learning Capstone Project
 
 ## A study into possible implicit bias in 2013-15 traffic stops.
 
-The aim of this project is to analyze variations in road safety in the U.S. This will be done using a dataset containing details of fatal road accidents obtained from the National Hightway Traffic Safety Administration:
-
-(http://nhtsa.gov)
+With the increasing awareness of difficult encounters between law enforcement and members of minority communities, many have called for changes in the way police officers are trained and monitored in their dealings with the public. In any area of human interaction, one of the most difficult problems to detect is implicit bias.
 
 ## Available Data
 
-The data examined are from the NHTSA's road fatality database, the Fatality Analysis Reporting System (FARS). This study concentrates on 2016 data, although there were datasets in the FARS repository going back as far as 1975. The repository can be found at:
+This study was conducted using police traffic stop data collected between October 2013 and September 2015 and posted online by the Connecticut Racial Profiling Prohibition Project. The aim of the project is to monitor and combat racial profiling in interactions between the police and road users. 
 
-ftp://ftp.nhtsa.dot.gov/fars/
+The dataset consisted of 857,895 observations recorded from CT police interactions from 2013-15. 
 
-Each row in the dataset represents a particular fatal accident. Columns include the state in which the accident occurred, the number and types of vehicles involved, number of pedestrians involved, the time of day, the weather conditions, whether a driver was reported as being drunk at the scene, number of fatalities, and many others. The columns in the dataset are mostly coded; some of the columns' meanings could be deduced intuitively, whereas others had to be looked up. For this, it was necessary to consult the NHTSA's manual, which is located at:
+## Selected Findings
 
-ftp://ftp.nhtsa.dot.gov/fars/FARS-DOC/Analytical%20User%20Guide/FARS%20Analytical%20Users%20Manual%201975-2016-822447.pdf 
+- Black males and Latino males are more likely than average, to a statistically significant degree, to have their car searched during a traffic stop whose original purpose was non-investigative.
+
+- Black males are less likely than average to be found to be in possession of contraband. White males are more likely than average to be found to be in possession of contraband, as a result of these non-investigative searches.
 
 ## Techniques Used
 
