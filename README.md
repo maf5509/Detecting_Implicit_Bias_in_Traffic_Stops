@@ -19,4 +19,4 @@ The dataset consisted of 857,895 observations recorded from CT police interactio
 
 ## Techniques Used
 
-t-testing; various supervised learning models including Random Forest, Logistic Regression, SVM, Ridge Regression, LASSO, KNN.
+t-testing; various supervised learning models including Random Forest, Logistic Regression, SVM, Ridge Regression, LASSO, KNN; evaluation techniques including cross-validation, AUC.
