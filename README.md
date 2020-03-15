@@ -1,8 +1,8 @@
 # Detecting Implicit Bias in Traffic Stops
-Thinkful Unit 3 Supervised Learning Capstone Project
+      
 
 ## A study into possible implicit bias in 2013-15 traffic stops.
-
+![Image description](https://joy105.com/wp-content/uploads/2019/07/20100401_police-ticketing-driver_614mzweb_t750x550.jpg)  
 With the increasing awareness of difficult encounters between law enforcement and members of minority communities, many have called for changes in the way police officers are trained and monitored in their dealings with the public. In any area of human interaction, one of the most difficult problems to detect is implicit bias.
 
 ## Available Data
